@@ -10,6 +10,6 @@
 
 <img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" />
 <br />
-![Bootstrap_logo svg](https://user-images.githubusercontent.com/74202040/170259925-81ddb5f4-8e69-417f-9836-08920c6b0167.png)
-<img width="263" alt="chakra-ui" src="https://user-images.githubusercontent.com/74202040/170259935-b75bd8fd-d6a6-4751-b406-ced16bc5f01f.png">
-![icons8-material-ui-32](https://user-images.githubusercontent.com/74202040/170259998-e9e2c566-9d25-4eec-b5d1-f66f3c4840d3.png)
+<img width="26px" alt="material-ui" src="https://user-images.githubusercontent.com/74202040/170259925-81ddb5f4-8e69-417f-9836-08920c6b0167.png">
+<img width="26px" alt="chakra-ui" src="https://user-images.githubusercontent.com/74202040/170259935-b75bd8fd-d6a6-4751-b406-ced16bc5f01f.png">
+<img width="26px" alt="Bootstrap" src="https://user-images.githubusercontent.com/74202040/170259998-e9e2c566-9d25-4eec-b5d1-f66f3c4840d3.png">
